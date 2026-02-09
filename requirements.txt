@@ -1,0 +1,4 @@
+playwright>=1.40
+ics>=0.7
+python-dateutil>=2.8
+requests>=2.31
